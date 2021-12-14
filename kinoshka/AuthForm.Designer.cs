@@ -19,9 +19,6 @@
             }
             base.Dispose(disposing);
         }
-
-        #region Код, автоматически созданный конструктором форм Windows
-
         /// <summary>
         /// Обязательный метод для поддержки конструктора - не изменяйте
         /// содержимое данного метода при помощи редактора кода.
@@ -78,9 +75,6 @@
             this.PerformLayout();
 
         }
-
-        #endregion
-
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.MaskedTextBox maskedTextBox1;
